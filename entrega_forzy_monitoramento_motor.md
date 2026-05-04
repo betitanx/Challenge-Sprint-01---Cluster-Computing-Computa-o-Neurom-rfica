@@ -2,7 +2,7 @@
 
 ## 1) Caso analisado
 
-**Motor escolhido:** motor de indução trifásico 220 V, 5 cv, 60 Hz, utilizado em conjunto motobomba industrial de operação contínua.
+**Motor escolhido:** Motor de indução trifásico 220 V, 5 cv, 60 Hz, utilizado em conjunto motobomba industrial de operação contínua.
 
 **3 sinais monitorados (etapa inicial):**
 1. **Corrente (A)**
@@ -41,9 +41,9 @@
 ## 3) Análise de viabilidade
 
 ### Por que esses sinais são relevantes
-- **Corrente:** indica carga do motor, desequilíbrios e possíveis condições de sobrecorrente/partida anormal.
-- **Temperatura:** ajuda a detectar sobreaquecimento por falha de ventilação, sobrecarga ou degradação de rolamento.
-- **Vibração:** é um dos melhores indicadores precoces de desalinhamento, desbalanceamento e desgaste mecânico.
+- **Corrente:** Indica carga do motor, desequilíbrios e possíveis condições de sobrecorrente/partida anormal.
+- **Temperatura:** Ajuda a detectar sobreaquecimento por falha de ventilação, sobrecarga ou degradação de rolamento.
+- **Vibração:** É um dos melhores indicadores precoces de desalinhamento, desbalanceamento e desgaste mecânico.
 
 ### Onde a arquitetura clássica pode gerar custo/gargalo
 - Na arquitetura clássica, a maior parte dos dados brutos é enviada continuamente ao servidor.
